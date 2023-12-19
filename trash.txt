@@ -1,2 +1,10 @@
 ini line pertama
 ini line kedua
+ini line ketiga
+ke empat
+kelima
+keenam
+ketujuh
+kelapan
+kembilan
+kepuluh
